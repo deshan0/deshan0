@@ -142,4 +142,28 @@ I focus on
   </div>
 </section>
 
-![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+<hr style="height:0.1px; border:none; background:rgba(0,0,0,0.1);" />
+
+<div className="mb-8">
+  <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">
+    Contact Me
+  </h3>
+  <div className="flex flex-wrap gap-3">
+    <a href="mailto:deshankddt@gmail.com" target="_blank" rel="noreferrer" className="no-underline">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/deshan-thrimanna-6413b3297/" target="_blank" rel="noreferrer" className="no-underline">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+    </a>
+    <a href="https://discord.com/users/deshan5234" target="_blank" rel="noreferrer" className="no-underline">
+      <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+    </a>
+    <a href="https://deshan0.github.io/projects/" target="_blank" rel="noreferrer" className="no-underline">
+      <img src="https://img.shields.io/badge/Portfolio-0078ff?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio" />
+    </a>
+  </div>
+</div>
+
+
+
+![](https://hit.yhype.me/github/profile?user_id=deshan0)
