@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=0:201996,100:0078ff&text=Deshan%20Thrimanna&desc=Electrical%20Engineering%20Undergraduate%20%7C%20Researcher&fontColor=ffffff&descAlignY=65&descAlign=50&fontSize=60&reversal=true)
 
-With a background in Electrical Engineering, I’m passionate about **Computer Vision**, **Deep Learning**, and **Automation Systems**. Whether it’s research or building real-world applications, I enjoy exploring new challenges and learning along the way.
+With a background in Electrical Engineering, I’m passionate about **Renewable Energy**, **Control Systems**, and **Industrial Automation**. Whether it’s research or building real-world applications, I enjoy exploring new challenges and learning along the way.
 
 You can check out my work in my [projects📂](https://deshan0.github.io/projects/) </br>
 
